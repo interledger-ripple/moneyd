@@ -17,6 +17,7 @@
     "chalk": "^2.3.0",
     "ilp-connector": "^23.0.0",
     "ilp-plugin-mini-accounts": "^3.5.1",
+    "moneyd-uplink-xrp": "https://github.com/interledger-ripple/moneyd-uplink-xrp.git",
     "ilp-store-memory": "^1.0.0",
     "inquirer": "^6.5.0",
     "moment": "^2.22.1",
